@@ -1,1 +1,3 @@
-# c-example
+# cpp-example
+
+bazı basit cpp örnekleri
